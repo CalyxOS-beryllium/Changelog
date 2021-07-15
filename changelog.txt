@@ -1,1 +1,5 @@
-test
+- Added APNs
+- Added support for OTAs
+- Updated kernel to Ingenium v2.5
+- Updated to July patch
+- More things I forgot
